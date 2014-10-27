@@ -5,4 +5,4 @@ asp环境下方便执行exp的简洁webshell
 
 ![img](aspexec.png)
 
-使用介绍参见: http://le4f.net/
+使用介绍参见: http://le4f.net/post/post/windows-x64-local-privilege-escalation
